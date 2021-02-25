@@ -20,4 +20,11 @@ This is just for learning Git
 ## Step - 5
  * git push origin main
   for push to git hub
+
+## Step - 6
+ * git checkout -b branching
+ for create new branch and switch to branch
+ * git checkout branching
+ for switch to branch
+  * git push --set-upstream origin branching
   
