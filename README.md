@@ -28,3 +28,7 @@ This is just for learning Git
  for switch to branch
   * git push --set-upstream origin branching
   
+## Step - 7 
+ * git pull
+ * git branch -d branching
+ 
