@@ -26,3 +26,5 @@ This is just for learning Git
  for create new branch and switch to branch
  * git checkout branching
  for switch to branch
+  * git push --set-upstream origin branching
+  
